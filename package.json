@@ -11,6 +11,8 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "semantic-ui": "^2.2.13",
+    "sweetalert": "^2.0.8",
     "vue": "^2.5.2"
   },
   "devDependencies": {
